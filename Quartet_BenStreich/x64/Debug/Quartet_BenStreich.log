@@ -1,0 +1,15 @@
+﻿  Quartet_WW2.cpp
+C:\Users\benst\source\repos\Quartet_BenStreich\Quartet_BenStreich\Quartet_WW2.cpp(95,20): warning C4129: "h": nicht erkannte Folge von Escapesequenz
+C:\Users\benst\source\repos\Quartet_BenStreich\Quartet_BenStreich\Quartet_WW2.cpp(108,20): warning C4129: "h": nicht erkannte Folge von Escapesequenz
+C:\Users\benst\source\repos\Quartet_BenStreich\Quartet_BenStreich\Quartet_WW2.cpp(264,20): warning C4129: "c": nicht erkannte Folge von Escapesequenz
+C:\Users\benst\source\repos\Quartet_BenStreich\Quartet_BenStreich\Quartet_WW2.cpp(274,34): warning C4551: Dem Funktionsaufruf fehlt die Argumentliste
+C:\Users\benst\source\repos\Quartet_BenStreich\Quartet_BenStreich\Quartet_WW2.cpp(275,18): warning C4551: Dem Funktionsaufruf fehlt die Argumentliste
+C:\Users\benst\source\repos\Quartet_BenStreich\Quartet_BenStreich\Quartet_WW2.cpp(317,19): warning C4244: "Argument": Konvertierung von "time_t" in "unsigned int", möglicher Datenverlust
+C:\Users\benst\source\repos\Quartet_BenStreich\Quartet_BenStreich\Quartet_WW2.cpp(334,19): warning C4244: "Argument": Konvertierung von "time_t" in "unsigned int", möglicher Datenverlust
+C:\Users\benst\source\repos\Quartet_BenStreich\Quartet_BenStreich\Quartet_WW2.cpp(538,20): warning C4244: "=": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\benst\source\repos\Quartet_BenStreich\Quartet_BenStreich\Quartet_WW2.cpp(698,16): warning C4129: "c": nicht erkannte Folge von Escapesequenz
+C:\Users\benst\source\repos\Quartet_BenStreich\Quartet_BenStreich\Quartet_WW2.cpp(802,16): warning C4129: "c": nicht erkannte Folge von Escapesequenz
+C:\Users\benst\source\repos\Quartet_BenStreich\Quartet_BenStreich\Quartet_WW2.cpp(897,16): warning C4129: "c": nicht erkannte Folge von Escapesequenz
+C:\Users\benst\source\repos\Quartet_BenStreich\Quartet_BenStreich\Quartet_WW2.cpp(906,30): warning C4551: Dem Funktionsaufruf fehlt die Argumentliste
+C:\Users\benst\source\repos\Quartet_BenStreich\Quartet_BenStreich\Quartet_WW2.cpp(907,14): warning C4551: Dem Funktionsaufruf fehlt die Argumentliste
+  Quartet_BenStreich.vcxproj -> C:\Users\benst\source\repos\Quartet_BenStreich\x64\Debug\Quartet_BenStreich.exe
