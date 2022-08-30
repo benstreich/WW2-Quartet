@@ -19,7 +19,7 @@ Select value: <br>
 -(2) summit height <br>
 -(3) horse power <br>
 
-depending on that, you either win the computers card or you lose yours
+depending on that, you either win the computers card or you lose yours <br>
 
 <h2 align="center">end words</h2>
 All right hope you have fun with my project, check out rayback00001 for some banger projects ;)
